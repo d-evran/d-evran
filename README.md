@@ -1,6 +1,9 @@
-- 👋 Hi, I'm Didem
+Hi there 👋 
 
-- ⚡ I'm full-time chemical engineer with master degree
+I'm Didem Evran
+
+- 🎓 I'm full-time chemical engineer with master degree
 - 🌱 Now I'm changing my career to IT 
-- 🔭 I’m currently doing a full stack development course and learning c#, html, css, js
-- 👯 I’m interested in flutter, react-native, mobil app development 😄
+- 💻 I’m currently doing a full stack development course and learning C#,ASP.Net MVC, MsSQL, HTML, CSS, JavaScript, Bootstrap...
+- 👯 I’m interested in Web Development and Mobil App Development 📱
+- 🔎 Looking for a job as Trainee or Jr. Full Stack Developer 
